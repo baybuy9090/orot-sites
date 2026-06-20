@@ -1,2 +1,1 @@
 # orot-sites
-google.com, pub-1680458171739047, DIRECT, f08c47fec0942fa0
